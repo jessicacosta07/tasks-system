@@ -13,7 +13,6 @@ namespace tasks_system.Context
         {
 
         }
-
         public DbSet<Tarefa> Tarefas { get; set; }
     }
 }
