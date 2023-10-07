@@ -1,0 +1,15 @@
+obj/project.assets.json
+obj/project.nuget.cache
+obj/tasks-system.csproj.nuget.dgspec.json
+obj/tasks-system.csproj.nuget.g.props
+obj/tasks-system.csproj.nuget.g.targets
+obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs
+obj/Debug/net7.0/tasks-system.AssemblyInfo.cs
+obj/Debug/net7.0/tasks-system.AssemblyInfoInputs.cache
+obj/Debug/net7.0/tasks-system.assets.cache
+obj/Debug/net7.0/tasks-system.csproj.AssemblyReference.cache
+obj/Debug/net7.0/tasks-system.GeneratedMSBuildEditorConfig.editorconfig
+obj/Debug/net7.0/tasks-system.GlobalUsings.g.cs
+Properties/launchSettings.json
+appsettings.Development.json
+appsettings.json
