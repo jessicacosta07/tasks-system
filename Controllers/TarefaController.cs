@@ -103,7 +103,7 @@ namespace tasks_system.Controllers
             return Ok(tarefaBanco);
         }
 
-        [HttpDelete("{id}Deletar/")]
+        [HttpDelete("{id}/Deletar")]
         public IActionResult Deletar(int id)
         {
             var tarefaBanco = _context.Tarefas.Find(id);
