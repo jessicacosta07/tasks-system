@@ -1,6 +1,6 @@
 # Tasks system
 
-## Bootcamp WEX - Desenvolvimento .NET e QA - Digital Innovation One (DIO)
+## Bootcamp WEX - Desenvolvimento .NET e QA
 
 ## Skills
 ![C#](https://img.shields.io/badge/c%23-%5C2D91.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
